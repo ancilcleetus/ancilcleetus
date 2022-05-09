@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ancilcleetus&show_icons=true&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ancilcleetus&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ancilcleetus&hide=Jupyter Notebook&layout=compact&theme=dark"/>
 
 <!--
 **ancilcleetus/ancilcleetus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancilcleetus&hide=javascript,html)](https://github.com/ancilcleetus/github-readme-stats)
