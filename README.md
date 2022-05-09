@@ -8,6 +8,7 @@
 ##### Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep Learning and Computer Vision.
 ##### After finishing the above, I want to focus on areas like Natural Language Processing, Self Supervised Learning etc.
 ##### In the future, I also want to focus on Quantum Machine Learning.
+##### I'm documenting my Learning Journey through my GitHub repos whenever I get spare time.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ancilcleetus&show_icons=true&theme=dark"/>
