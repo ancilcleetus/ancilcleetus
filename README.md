@@ -16,7 +16,7 @@ In the future, I want to focus on Natural Language Processing, Deep Reinforcemen
 
 In the future, I also want to focus on Quantum Computing and Quantum Machine Learning.
 
-My end goal is to do Original Research in Artificial General Intelligence and to develop Ethical AGI Systems.
+My professional end goal is to do Original Research in Artificial General Intelligence and to develop Ethical AGI Systems for the betterment of humanity.
 
 I'm documenting my Learning Journey through my GitHub repos whenever I get spare time.
 
