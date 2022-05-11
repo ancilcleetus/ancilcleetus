@@ -12,7 +12,7 @@ Under the Foundations of Computer Science, I'm currently focusing on Data Struct
 After building a strong foundation in above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc. I also want to learn more Programming Languages like Java, Go, Rust, Julia etc.
 
 Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep Learning and Computer Vision.
-After building a strong foundation in above areas, I want to focus on Natural Language Processing, Self Supervised Learning etc.
+In the future, I want to focus on Natural Language Processing, Deep Reinforcement Learning, Self Supervised Learning etc.
 
 In the future, I also want to focus on Quantum Computing and Quantum Machine Learning.
 
