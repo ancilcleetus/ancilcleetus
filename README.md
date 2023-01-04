@@ -72,7 +72,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Powered%20by-Amazon%20DynamoDB-blue.svg?logo=amazondynamodb&logoColor=white"></a>
+    <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-blue.svg?logo=amazondynamodb&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
 
