@@ -60,7 +60,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange.svg?logo=scikitlearn&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-blue.svg?logo=plotly&logoColor=white"></a>
