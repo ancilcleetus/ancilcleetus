@@ -30,7 +30,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **Machine Learning Engineer**
+- 👨‍💻 I'm a **Machine Learning Engineer**
 - 🌱 I'm currently learning:
   - Machine Learning Engineer Career Path on [ZeroToMastery](https://zerotomastery.io/career-paths/become-a-machine-learning-engineer)
   - Backend Developer Roadmap on [roadmap.sh](https://roadmap.sh/backend)
