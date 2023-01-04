@@ -79,7 +79,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### 💻 Software and Tools
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -91,9 +91,6 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 ---
 
 ## 📊 Stats
-
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
-
 
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
