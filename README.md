@@ -21,7 +21,7 @@ Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep
 
 In the future, I also want to focus on Quantum Computing and Quantum Machine Learning.
 
-My professional end goal is to do Original Research in Artificial General Intelligence and to develop Ethical AGI Systems for the betterment of humanity.
+My professional end goal is to do Original Research in Artificial General Intelligence (especially in Decision Intelligence) and to develop Ethical AGI Systems for the betterment of humanity.
 
 I'm documenting my Learning Journey through my GitHub repos whenever I get spare time.
 
