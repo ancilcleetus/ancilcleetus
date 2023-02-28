@@ -10,7 +10,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ancilcleetus.ancilcleetus)
 
-I am a self-taught Deep Learning Engineer with formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working in the field of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. At present, I'm working as a Machine Learning Engineer in India with focus on Computer Vision.
+I am a self-taught Deep Learning Engineer with formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working in the field of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. At present, I'm working as a Deep Learning Engineer in India with focus on Computer Vision.
 
 Since I don't have a formal Computer Science background, I know that I have a lot to learn. I have to make a solid foundation in Computer Science in general and Artificial Intelligence in particular.
 
