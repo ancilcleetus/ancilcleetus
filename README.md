@@ -15,9 +15,9 @@ I am a self-taught Deep Learning Engineer with formal academic background in Ele
 Since I don't have a formal Computer Science background, I know that I have a lot to learn. I have to make a solid foundation in Computer Science in general and Artificial Intelligence in particular.
 
 Under the Foundations of Computer Science, I'm currently focusing on Data Structures & Algorithms, Computer Systems, Low Level Design & Design Patterns and High Level Design. I also want to learn more Programming Languages like Java, JavaScript, TypeScript, Go, Rust, Dart, PureScript, Haskell etc.
-After building a strong foundation in above areas, I want to focus on more advanced areas like Graph Theory, Game Theory, Automated Planning etc.
+After building a strong foundation in above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc.
 
-Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep Learning, Computer Vision and Natural Language Processing. In the future, I want to focus on Deep Reinforcement Learning, Self Supervised Learning etc.
+Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep Learning and Computer Vision. In the future, I want to focus on Natural Language Processing, Deep Reinforcement Learning, Self Supervised Learning etc.
 
 In the future, I also want to focus on Quantum Computing and Quantum Machine Learning.
 
