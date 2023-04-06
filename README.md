@@ -38,7 +38,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
   - Machine Learning Engineer Career Path on [ZeroToMastery](https://zerotomastery.io/career-paths/become-a-machine-learning-engineer)
   - Backend Developer Roadmap on [roadmap.sh](https://roadmap.sh/backend)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1Gk93ZZWaT31DrCYXCuvSfixwQisMynwb)
+- 📝 [Resume](https://drive.google.com/file/d/10GmUJUtMF_yAsAo6MX0QLiRPenmb5Cm7)
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
