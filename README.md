@@ -35,7 +35,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 🌱 I'm currently learning:
-  - Machine Learning Engineer Career Path on [ZeroToMastery](https://zerotomastery.io/career-paths/become-a-machine-learning-engineer)
+  - Deep Learning Professional Career Path on [Educative](https://www.educative.io/path/become-a-deep-learning-professional)
   - Backend Developer Roadmap on [roadmap.sh](https://roadmap.sh/backend)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/10GmUJUtMF_yAsAo6MX0QLiRPenmb5Cm7)
