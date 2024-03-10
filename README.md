@@ -39,7 +39,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
   - Neural Networks: Beginners to Advanced Skill Path on [Educative](https://www.educative.io/path/neural-networks-beginners-to-advanced)
   - Backend Developer Roadmap on [roadmap.sh](https://roadmap.sh/backend)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1hqgP9YlCoLrASJN6pb1xj3H6CexSKQBd)
+- 📝 [Resume](https://drive.google.com/file/d/1gLZTuUK296Mi--MOxlju_8MFNz904My2)
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
