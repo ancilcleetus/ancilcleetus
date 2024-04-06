@@ -10,20 +10,19 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ancilcleetus.ancilcleetus)
 
-I am a self-taught Deep Learning Engineer with formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working in the field of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. At present, I'm working as a Deep Learning Engineer in India with focus on Computer Vision.
+I am a self-taught Artificial Intelligence Engineer with formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. At present, I'm working as a Deep Learning Engineer in India with focus on Computer Vision.
 
 Since I don't have a formal Computer Science background, I know that I have a lot to learn. I have to make a solid foundation in Computer Science in general and Artificial Intelligence in particular.
 
-Under the Foundations of Computer Science, I'm currently focusing on Data Structures & Algorithms, Computer Systems, Low Level Design & Design Patterns and High Level Design. I also want to learn more Programming Languages like Java, JavaScript, TypeScript, Go, Rust, Dart, PureScript, Haskell etc.
-After building a strong foundation in above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc.
+Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep Learning and Computer Vision. In the future, I want to focus on NLP (Natural Language Processing), Generative AI & LLMs (Large Language Models), Deep Reinforcement Learning, Self Supervised Learning etc.
 
-Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep Learning and Computer Vision. In the future, I want to focus on Natural Language Processing, Deep Reinforcement Learning, Self Supervised Learning etc.
+Under the Foundations of Computer Science, I'm currently focusing on Data Structures & Algorithms, Computer Systems, Low Level Design & Design Patterns and High Level Design. I also want to learn more Programming Languages like Java, JavaScript, TypeScript, Go, Rust, Dart, PureScript, Haskell etc. After building a strong foundation in above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc.
 
 In the future, I also want to focus on Quantum Computing and Quantum Machine Learning.
 
 My professional end goal is to do Original Research in Artificial General Intelligence (especially in Decision Intelligence) and to develop Ethical AGI Systems for the betterment of humanity.
 
-I'm documenting my Learning Journey through my GitHub repos whenever I get spare time.
+I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey) through my GitHub repos whenever I get spare time.
 
 
 <img align="right" alt="GIF" src="https://github.com/ancilcleetus/ancilcleetus/blob/main/coding.gif?raw=true" width="408" height="318" />
@@ -31,13 +30,10 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 
 ### Talking about Personal Stuffs:
 
-- 👨‍💻 I'm a **Deep Learning Engineer**
+- 👨‍💻 I'm an **Artificial Intelligence Engineer**
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
+- 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
-- 🌱 I'm currently learning:
-  - Deep Learning Professional Skill Path on [Educative](https://www.educative.io/path/become-a-deep-learning-professional)
-  - Neural Networks: Beginners to Advanced Skill Path on [Educative](https://www.educative.io/path/neural-networks-beginners-to-advanced)
-  - Backend Developer Roadmap on [roadmap.sh](https://roadmap.sh/backend)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1gLZTuUK296Mi--MOxlju_8MFNz904My2)
 - 💪 This is where I write, code and solve problems:
