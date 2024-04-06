@@ -36,15 +36,6 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1gLZTuUK296Mi--MOxlju_8MFNz904My2)
-- 💪 This is where I write, code and solve problems:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ancilcleetus" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ancilcleetus" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.codewars.com/users/ancilcleetus" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ancilcleetus/ancilcleetus/main/images/icons/codewars.svg" alt="ancilcleetus" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/ancilcleetus" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ancilcleetus" height="30" width="40" /></a>
-&nbsp;
 
 ---
 
