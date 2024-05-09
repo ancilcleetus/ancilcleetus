@@ -44,7 +44,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="Embedded C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
@@ -53,10 +53,14 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-blue.svg?logo=plotly&logoColor=white"></a>
-    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange.svg?logo=scikitlearn&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-blue?logo=plotly&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-7db0bc?logo=plotly&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-brightgreen.svg?logo=opencv&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange.svg?logo=scikitlearn&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red.svg?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-blue.svg?logo=ray&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green.svg?logo=django&logoColor=white"></a>
