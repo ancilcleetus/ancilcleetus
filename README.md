@@ -16,7 +16,7 @@ Since I don't have a formal Computer Science background, I know that I have a lo
 
 Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep Learning and Computer Vision. In the future, I want to focus on NLP (Natural Language Processing), Generative AI & LLMs (Large Language Models), Deep Reinforcement Learning, Self Supervised Learning etc.
 
-Under the Foundations of Computer Science, I'm currently focusing on Data Structures & Algorithms, Low Level Design & Design Patterns and System Design. After building a strong foundation in the above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc. I also want to learn more Programming Languages like Java, JavaScript, TypeScript, Go, Rust, Dart, PureScript, Haskell etc.
+Under the Foundations of Computer Science, I'm currently focusing on Data Structures & Algorithms, Low Level Design & Design Patterns and System Design. After building a strong foundation in the above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc. I also want to learn more Programming Languages like Java, TypeScript, Mojo, Rust, Haskell etc.
 
 In the future, I also want to focus on Quantum Computing and Quantum Machine Learning.
 
