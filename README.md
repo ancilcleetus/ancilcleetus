@@ -46,7 +46,6 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 <p>
     <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Embedded C" src="https://img.shields.io/badge/Embedded%20C-00599C?logo=c&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Embedded C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&style=flat"></a>
 </p>
 
@@ -81,6 +80,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat"></a>
 </p>
