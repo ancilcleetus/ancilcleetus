@@ -52,9 +52,8 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-blue.svg?logo=plotly&logoColor=white"></a>
     <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange.svg?logo=scikitlearn&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-brightgreen.svg?logo=opencv&logoColor=white"></a>
