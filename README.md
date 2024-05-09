@@ -44,9 +44,10 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Embedded C" src="https://img.shields.io/badge/Embedded%20C-00599C?logo=c&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Embedded C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&style=flat"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -57,32 +58,31 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-blue?logo=plotly&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-7db0bc?logo=plotly&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-brightgreen.svg?logo=opencv&logoColor=white"></a>
-    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange.svg?logo=scikitlearn&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-brightgreen?logo=opencv&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange?logo=scikitlearn&logoColor=white&style=flat"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red.svg?logo=pytorch&logoColor=white"></a>
-    <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-blue.svg?logo=ray&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green.svg?logo=django&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-blue?logo=ray&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white&style=flat"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-blue.svg?logo=amazondynamodb&logoColor=white"></a>
-    <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-red.svg?logo=redis&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f8de09.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-blue?logo=amazondynamodb&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f8de09?logo=firebase&logoColor=white&style=flat"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=visual-studio-code&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat"></a>
 </p>
 
 ---
