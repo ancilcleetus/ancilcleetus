@@ -16,7 +16,7 @@ Since I don't have a formal Computer Science background, I know that I have a lo
 
 Under the Foundations of Artificial Intelligence, I'm currently focusing on Deep Learning and Computer Vision. In the future, I want to focus on NLP (Natural Language Processing), Generative AI & LLMs (Large Language Models), Deep Reinforcement Learning, Self Supervised Learning etc.
 
-Under the Foundations of Computer Science, I'm currently focusing on Data Structures & Algorithms, Computer Systems, Low Level Design & Design Patterns and High Level Design. I also want to learn more Programming Languages like Java, JavaScript, TypeScript, Go, Rust, Dart, PureScript, Haskell etc. After building a strong foundation in above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc.
+Under the Foundations of Computer Science, I'm currently focusing on Data Structures & Algorithms, Low Level Design & Design Patterns and System Design. After building a strong foundation in the above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc. I also want to learn more Programming Languages like Java, JavaScript, TypeScript, Go, Rust, Dart, PureScript, Haskell etc.
 
 In the future, I also want to focus on Quantum Computing and Quantum Machine Learning.
 
@@ -31,8 +31,8 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 I'm an **Artificial Intelligence Engineer**
-- 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
 - 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
+- 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1gLZTuUK296Mi--MOxlju_8MFNz904My2)
@@ -45,7 +45,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="Embedded C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
 
@@ -53,9 +53,13 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange.svg?logo=scikitlearn&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-blue.svg?logo=plotly&logoColor=white"></a>
+    
+    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange.svg?logo=scikitlearn&logoColor=white"></a>
+    
+    
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-brightgreen.svg?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red.svg?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-blue.svg?logo=ray&logoColor=white"></a>
