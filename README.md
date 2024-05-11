@@ -10,7 +10,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=ancilcleetus.ancilcleetus)
 
-I am a self-taught Artificial Intelligence Engineer with formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. At present, I'm working as a Deep Learning Engineer in India with focus on Computer Vision.
+I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. At present, I'm working as a Deep Learning Engineer in India with focus on Computer Vision.
 
 Since I don't have a formal Computer Science background, I know that I have a lot to learn. I have to make a solid foundation in Computer Science in general and Artificial Intelligence in particular.
 
@@ -81,8 +81,8 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat"></a>
 </p>
 
 ---
