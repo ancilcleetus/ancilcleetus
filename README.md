@@ -1,17 +1,11 @@
 # Welcome to Ancil Cleetus's profile! <a href="https://www.ancilcleetus.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
-
 <a href="https://www.linkedin.com/in/ancilcleetus/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ancilcleetus" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/ancilcleetus/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ancilcleetus" height="30" width="40" /></a>
 &nbsp;
 
-
-
 ## Glad to see you here! &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=ancilcleetus.ancilcleetus)
-
-![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
 I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. At present, I'm working as a Deep Learning Engineer in India with focus on Computer Vision.
 
@@ -40,7 +34,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1gLZTuUK296Mi--MOxlju_8MFNz904My2)
 
-![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+--------------------------------------------------------------------------------
 
 ## 🛠️ My Favourite Tools
 
@@ -88,7 +82,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat"></a>
 </p>
 
-![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+--------------------------------------------------------------------------------
 
 ## 📊 Stats
 
@@ -111,6 +105,6 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 
 </details>
 
-![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+--------------------------------------------------------------------------------
 
 
