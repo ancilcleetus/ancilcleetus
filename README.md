@@ -60,6 +60,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-blue?logo=ray&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white&style=flat"></a>
 </p>
 
