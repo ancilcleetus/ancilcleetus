@@ -38,7 +38,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 
 ## 🛠️ My Favourite Tools
 
-### 👨‍💻 Programming Languages
+### 💎 Programming Languages
 
 <p>
     <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-121011?logo=gnu-bash&logoColor=white&style=flat"></a>
@@ -60,9 +60,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-blue?logo=ray&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white&style=flat"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -74,13 +72,25 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f8de09?logo=firebase&logoColor=white&style=flat"></a>
 </p>
 
-### 💻 Software and Tools
+### ⚙️ MLOps Tools and Platforms
+
+<p>
+    <a href="#"><img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white&style=flat"></a>
+
+### 🚀 Deployment Tools and Platforms
+
+<p>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"></a>
+
+### 💻 IDEs and Other Utilities
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat"></a>
 </p>
 
