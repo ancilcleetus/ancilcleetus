@@ -53,7 +53,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-444876?logo=cesium&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3D4E76?logo=plotly&logoColor=white&style=flat"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-brightgreen?logo=opencv&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange?logo=scikitlearn&logoColor=white&style=flat"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat"></a>
