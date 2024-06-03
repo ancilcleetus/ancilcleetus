@@ -83,7 +83,6 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Taipy" src="https://img.shields.io/badge/Taipy-FF371A?logo=taipy&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Deno" src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat"></a>
 
