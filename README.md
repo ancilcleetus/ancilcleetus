@@ -60,7 +60,6 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-blue?logo=ray&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white&style=flat"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -82,6 +81,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Taipy" src="https://img.shields.io/badge/Taipy-FF371A?logo=taipy&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Deno" src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=flat"></a>
