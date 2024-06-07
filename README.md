@@ -7,11 +7,11 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=ancilcleetus.ancilcleetus)
 
-I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. At present, I'm working as a Deep Learning Engineer in India with focus on Computer Vision.
+I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. I have got 3 years of experience working as a Deep Learning Engineer in India with focus on Computer Vision. At present, I'm building expertise in other areas of Artificial Intelligence such as Generative AI, LLMs (Large Language Models) and AI Agents.
 
 Since I don't have a formal Computer Science background, I know that I have a lot to learn. I have to make a solid foundation in Computer Science in general and Artificial Intelligence in particular.
 
-Under the Foundations of Artificial Intelligence, I'm currently focusing on Machine Learning, Deep Learning, Computer Vision, NLP (Natural Language Processing), Generative AI and LLMs (Large Language Models). In the future, I want to focus on Multimodal AI, AI Agents, Deep Reinforcement Learning, Self Supervised Learning, Autonomous & Cognitive Robotics etc.
+Under the Foundations of Artificial Intelligence, I'm currently focusing on Machine Learning, Deep Learning, Computer Vision, NLP (Natural Language Processing), Generative AI, LLMs and AI Agents. In the future, I want to focus on Edge AI & TinyML, Multimodal AI, Deep Reinforcement Learning, Self Supervised Learning, Autonomous & Cognitive Robotics etc.
 
 Under the Foundations of Computer Science, I'm currently focusing on Data Structures & Algorithms, Low Level Design, Design Patterns and System Design. After building a strong foundation in the above areas, I want to focus on more advanced areas like Game Theory, Automated Planning etc. I also want to learn more Programming Languages like Java, TypeScript, Rust, Haskell, Mojo etc.
 
