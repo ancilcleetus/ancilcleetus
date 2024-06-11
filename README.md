@@ -28,7 +28,7 @@ I'm documenting my [Learning Journey](https://github.com/ancilcleetus/My-Learnin
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 I'm an **Artificial Intelligence Engineer**
-- 🔭 I’m currently building expertise in Generative AI, LLMs &
+- 🔭 I’m currently building expertise in Generative AI, LLMs & AI Agents
 - 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
