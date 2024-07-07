@@ -31,6 +31,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 🔭 I’m currently building expertise in Generative AI, LLMs, Multimodal AI & AI Agents
 - 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
+- 🚀 Check out my [Live Projects on Hugging Face!](https://huggingface.co/ancilcleetus)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1gLZTuUK296Mi--MOxlju_8MFNz904My2)
