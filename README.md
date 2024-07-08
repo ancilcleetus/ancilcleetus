@@ -22,7 +22,7 @@ My professional end goal is to conduct Original Research in the field of Artific
 I'm documenting my Learning Journey through my GitHub repos whenever I get spare time.
 
 
-<img align="right" alt="GIF" src="https://github.com/ancilcleetus/ancilcleetus/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/ancilcleetus/ancilcleetus/blob/main/data/coding.gif?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
