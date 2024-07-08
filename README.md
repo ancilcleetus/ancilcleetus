@@ -20,7 +20,7 @@ In the future, I also want to focus on Quantum Computing and Quantum Machine Lea
 My professional end goal is to conduct Original Research in the field of Artificial General Intelligence (particularly in the area of Decision Intelligence) and to create AGI Systems that are capable of making ethical decisions for the betterment of humanity.
 
 I'm documenting my Learning Journey through my GitHub repos whenever I get spare time.
-
+![matplotlib-icon-white-24x24](https://github.com/ancilcleetus/ancilcleetus/assets/25684256/dc070c43-45f8-4eab-8db2-7b93e5cf1eb8)
 
 <img align="right" alt="GIF" src="https://github.com/ancilcleetus/ancilcleetus/blob/main/coding.gif?raw=true" width="408" height="318" />
 
