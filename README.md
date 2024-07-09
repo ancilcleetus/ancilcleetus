@@ -69,7 +69,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-blue?logo=amazondynamodb&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f8de09?logo=firebase&logoColor=white&style=flat"></a>
