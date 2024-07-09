@@ -62,7 +62,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-blue?logo=ray&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Ray-Tune" src="https://img.shields.io/badge/Ray%20Tune-028CF0?logo=ray&logoColor=white&style=flat"></a>
     <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat"></a>
 </p>
 
