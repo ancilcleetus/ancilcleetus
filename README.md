@@ -73,7 +73,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
     <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-blue?logo=amazondynamodb&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f8de09?logo=firebase&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Deep Lake" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/activeloop-icon-status.json"></a>
+    <a href="#"><img alt="Deep Lake" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/activeloop-icon-endpoint.json"></a>
 </p>
 
 ### ⚙️ MLOps Tools and Platforms
@@ -89,7 +89,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Taipy" src="https://img.shields.io/badge/Taipy-FF371A?logo=taipy&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Gradio" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/gradio-icon-status.json"></a>
+    <a href="#"><img alt="Gradio" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/gradio-icon-endpoint.json"></a>
     <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat"></a>
 
