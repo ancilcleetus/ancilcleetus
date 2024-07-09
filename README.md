@@ -86,7 +86,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Taipy" src="https://img.shields.io/badge/Taipy-FF371A?logo=taipy&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Gradio" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/gradio-icon-endpoint.json"></a>
