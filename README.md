@@ -46,7 +46,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 <p>
     <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-4EAA25?logo=gnu-bash&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Embedded C" src="https://img.shields.io/badge/Embedded%20C-A8B9CC?logo=c&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
