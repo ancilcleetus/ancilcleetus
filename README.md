@@ -58,7 +58,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/seaborn-icon-endpoint.json"></a>
     <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange?logo=scikitlearn&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white&style=flat"></a>
