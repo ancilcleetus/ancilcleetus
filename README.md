@@ -54,9 +54,9 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/matplotlib-icon-status.json"></a>
-    <a href="#"><img alt="Seaborn" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/seaborn-icon-status.json"></a>
-    <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3D4E76?logo=plotly&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/matplotlib-icon-endpoint.json"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/seaborn-icon-endpoint.json"></a>
+    <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-brightgreen?logo=opencv&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit Learn-orange?logo=scikitlearn&logoColor=white&style=flat"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat"></a>
