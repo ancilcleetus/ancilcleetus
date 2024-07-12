@@ -113,7 +113,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   <br/>
 	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="ancilcleetus's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ancilcleetus&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="ancilcleetus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancilcleetus&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="ancilcleetus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancilcleetus&langs_count=6&layout=donut&theme=react&hide_border=true&border_color=61dafb&hide=html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
   ⚡ I'm aspiring to be a <b>Polyglot Programmer</b> in diverse languages
   <br/>
