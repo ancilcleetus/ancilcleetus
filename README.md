@@ -7,7 +7,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=ancilcleetus.ancilcleetus)
 
-I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. I have got 3 years of experience working as a Deep Learning Engineer in India with focus on Computer Vision. At present, I'm building expertise in other areas of Artificial Intelligence such as Generative AI, LLMs (Large Language Models), Multimodal AI and AI Agents.
+I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. I have got 3 years of experience working as a Deep Learning Engineer in India with focus on Computer Vision. At present, I'm building expertise in other areas of Artificial Intelligence such as NLP (Natural Language Processing), Generative AI, LLMs (Large Language Models), Multimodal AI and AI Agents.
 
 Since I don't have a formal Computer Science background, I know that I have a lot to learn. I have to make a solid foundation in Computer Science in general and Artificial Intelligence in particular.
 
@@ -28,8 +28,8 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 I'm an **Artificial Intelligence Engineer**
-- 🔬 I'm skilled in Deep Learning, Computer Vision and NLP (Natural Language Processing)
-- 🔭 I’m currently building expertise in Generative AI, LLMs (Large Language Models), Multimodal AI & AI Agents
+- 🔬 I'm skilled in Deep Learning and Computer Vision
+- 🔭 I’m currently building expertise in NLP (Natural Language Processing), Generative AI, LLMs (Large Language Models), Multimodal AI & AI Agents
 - 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
 - 🚀 These are my [Live Projects on Hugging Face!](https://huggingface.co/ancilcleetus)
