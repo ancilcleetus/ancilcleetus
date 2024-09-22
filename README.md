@@ -30,7 +30,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 I'm an **Artificial Intelligence Engineer**
-- 🔬 I'm skilled in Deep Learning and Computer Vision
+- 🔬 I'm skilled in Machine Learning, Deep Learning and Computer Vision
 - 🔭 I’m currently building expertise in NLP (Natural Language Processing), Generative AI, LLMs (Large Language Models), Multimodal AI & AI Agents
 - 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
