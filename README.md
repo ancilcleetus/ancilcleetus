@@ -37,7 +37,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 🚀 These are my [Live Projects on Hugging Face!](https://huggingface.co/ancilcleetus)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
-- 📝 [My Resume](https://drive.google.com/file/d/1xKJZb3Z4FALfiXJ8BcYodwh_D0DIwCFu)
+- 📝 [My Resume](https://drive.google.com/file/d/104qP9Tx648nJwtapeeiD9fJ1CP1h1nwL)
 
 --------------------------------------------------------------------------------
 
