@@ -81,6 +81,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 ### ⚙️ MLOps Tools and Platforms
 
 <p>
+    <a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white&style=flat"></a>
 
 ### 🚀 Deployment Tools and Platforms
