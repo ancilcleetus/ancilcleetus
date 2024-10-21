@@ -35,7 +35,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
 - 🚀 These are my [Live Projects on Hugging Face!](https://huggingface.co/ancilcleetus)
-- 💡 These are my [Research Paper Implementations in Artificial Intelligence!](https://github.com/ancilcleetus/Research-Paper-Implementations)
+- 💡 These are my [Research Paper Implementations!](https://github.com/ancilcleetus/Research-Paper-Implementations)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
 - 📝 [My Resume](https://drive.google.com/file/d/1wgSzKJ3vkzPDuJ2qIhtk5d5X7KvEnDKQ)
