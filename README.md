@@ -27,7 +27,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 <img align="right" alt="GIF" src="https://github.com/ancilcleetus/ancilcleetus/blob/main/data/coding.gif?raw=true" width="408" height="318" />
 
 
-### Talking about Personal Stuffs:
+### Professional Highlights:
 
 - 👨‍💻 I'm an **Artificial Intelligence Engineer**
 - 🔬 I'm skilled in Machine Learning, Deep Learning and Computer Vision
@@ -40,6 +40,9 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
 - 📝 [My Resume](https://drive.google.com/file/d/1V4ECrZ5bGGQZzSbB-v-cqDZ75Issb_cc)
+
+
+### Talking about Personal Stuffs:
 
 --------------------------------------------------------------------------------
 
