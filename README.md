@@ -68,7 +68,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
     <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white&style=flat"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Ray Tune" src="https://img.shields.io/badge/Ray%20Tune-028CF0?logo=ray&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat"></a>
+    <!-- <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat"></a> -->
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/matplotlib-icon-endpoint.json"></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/seaborn-icon-endpoint.json"></a>
     <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat"></a>
@@ -80,14 +80,14 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Deep Lake" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/activeloop-icon-endpoint.json"></a>
+    <!-- <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=flat"></a> -->
+    <!-- <a href="#"><img alt="Deep Lake" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/activeloop-icon-endpoint.json"></a> -->
 </p>
 
 ### ⚙️ MLOps Tools and Platforms
 
 <p>
-    <a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=flat"></a>
+    <!-- <a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=flat"></a> -->
     <a href="#"><img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=white&style=flat"></a>
 
 ### 🚀 Deployment Tools and Platforms
@@ -95,7 +95,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 <p>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?logo=django&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Taipy" src="https://img.shields.io/badge/Taipy-FF371A?logo=taipy&logoColor=white&style=flat"></a>
+    <!-- <a href="#"><img alt="Taipy" src="https://img.shields.io/badge/Taipy-FF371A?logo=taipy&logoColor=white&style=flat"></a> -->
     <a href="#"><img alt="Gradio" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/gradio-icon-endpoint.json"></a>
     <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat"></a>
