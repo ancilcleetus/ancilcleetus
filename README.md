@@ -79,7 +79,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Google Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Google Firebase" src="https://img.shields.io/badge/Google%20Firebase-DD2C00?logo=firebase&logoColor=white&style=flat"></a>
     <!-- <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=flat"></a> -->
     <!-- <a href="#"><img alt="Deep Lake" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/activeloop-icon-endpoint.json"></a> -->
 </p>
