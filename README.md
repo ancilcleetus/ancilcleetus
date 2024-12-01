@@ -104,7 +104,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/visual-studio-code-icon-endpoint.json"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat"></a>
+    <!-- <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat"></a> -->
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"></a>
