@@ -9,7 +9,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=ancilcleetus.ancilcleetus)
 
-I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics Design, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. I have got 3 years of experience working as a Deep Learning Engineer in India with focus on Computer Vision. At present, I'm building expertise in other areas of Artificial Intelligence such as NLP (Natural Language Processing), Generative AI, LLMs (Large Language Models), Multimodal AI and AI Agents.
+I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics Design, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. I have got 3 years of experience working as a Deep Learning Engineer in India with focus on Computer Vision. At present, I'm building expertise in other areas of Artificial Intelligence such as Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs), Multimodal AI and AI Agents.
 
 Since I don't have a formal Computer Science background, I know that I have a lot to learn. I have to make a solid foundation in Computer Science in general and Artificial Intelligence in particular.
 
@@ -79,7 +79,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Google Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=flat"></a>
     <!-- <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=flat"></a> -->
     <!-- <a href="#"><img alt="Deep Lake" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/activeloop-icon-endpoint.json"></a> -->
 </p>
@@ -103,10 +103,10 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 ### 💻 IDEs and Other Utilities
 
 <p>
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/endpoint?url=https://github-profile-readme-icon-repo.onrender.com/visual-studio-code-icon-endpoint.json"></a>
     <!-- <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat"></a> -->
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white&style=flat"></a>
     <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white&style=flat"></a>
