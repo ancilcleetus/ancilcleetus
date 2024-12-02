@@ -36,10 +36,10 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
 - 🚀 These are my [Live Projects on Hugging Face!](https://huggingface.co/ancilcleetus)
 - 💡 These are my [Research Paper Implementations!](https://github.com/ancilcleetus/Research-Paper-Implementations)
-- 🐣 [Pathway to AI Mastery Series: Open Source Courses crafted by me (Work in Progress)](https://github.com/ancilcleetus/Pathway-to-AI-Mastery-Series)
+- 🐣 [Pathway to AI Mastery Series: A Personal Contribution to Open-Source AI Education (Work in Progress)](https://github.com/ancilcleetus/Pathway-to-AI-Mastery-Series)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
-- 📝 [My Resume](https://drive.google.com/file/d/1DVOFl-OLZNPKRhYoUggg1fcIOwRgjgfe)
+- 📝 [My Resume](https://drive.google.com/file/d/1uRjI18Zfx54_f9AyewV1WqXzKwxvXu0h)
 
 
 ### Talking about Personal Stuffs:
