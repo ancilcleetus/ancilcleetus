@@ -6,6 +6,8 @@
 &nbsp;
 <a href="https://www.instagram.com/ancilcleetus/" target="_blank"><img align="center" src="https://github.com/ancilcleetus/ancilcleetus/blob/main/data/Instagram-logo-512x512.svg" alt="ancilcleetus" height="30" width="40" /></a>
 &nbsp;
+<a href="https://www.youtube.com/@ancilcleetus" target="_blank"><img align="center" src="https://github.com/ancilcleetus/ancilcleetus/blob/main/data/YouTube-logo-512x512.svg" alt="ancilcleetus" height="30" width="40" /></a>
+&nbsp;
 
 ## Glad to see you here! &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=ancilcleetus.ancilcleetus)
 
