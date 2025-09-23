@@ -41,7 +41,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 🐣 [Pathway to AI Mastery Series: A Personal Contribution to Open-Source AI Education (Work in Progress)](https://github.com/ancilcleetus/Pathway-to-AI-Mastery-Series)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
-- 📝 [My Resume](https://drive.google.com/file/d/1uRjI18Zfx54_f9AyewV1WqXzKwxvXu0h)
+- 📝 [My Resume](https://drive.google.com/file/d/1Zry9wQDvfS3ZPt9eWq_6sRiy-b0Bn0oB)
 
 
 ### Talking about Personal Stuffs:
