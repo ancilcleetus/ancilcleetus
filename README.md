@@ -11,7 +11,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://vbr.nathanchung.dev/badge?page_id=ancilcleetus.ancilcleetus)
 
-I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics Design, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. I have got 3 years of experience working as a Deep Learning Engineer in India with focus on Computer Vision. At present, I'm building expertise in other areas of Artificial Intelligence such as Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs), Multimodal AI and AI Agents.
+I am a self-taught Artificial Intelligence Engineer with a formal academic background in Electronics Design, with a Masters Degree in VLSI and Embedded Systems. After working for 4+ years in the ﬁeld of Electronics Design as a Hardware Design Engineer, Verification Engineer and Product Researcher, I made a career switch to the field of Artificial Intelligence in March 2021. I have got 3.75 years of experience working as a Deep Learning Engineer in India with focus on Computer Vision and Time Series Analysis. At present, I'm building expertise in other areas of Artificial Intelligence such as Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs), Multimodal AI and AI Agents.
 
 Since I don't have a formal Computer Science background, I know that I have a lot to learn. I have to make a solid foundation in Computer Science in general and Artificial Intelligence in particular.
 
@@ -32,7 +32,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 ### Professional Highlights:
 
 - 👨‍💻 I'm an **Artificial Intelligence Engineer**
-- 🔬 I'm skilled in Machine Learning, Deep Learning and Computer Vision
+- 🔬 I'm skilled in Deep Learning, Computer Vision and ECG Time Series Analysis
 - 🔭 I’m currently building expertise in Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs), Multimodal AI & AI Agents
 - 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
@@ -41,7 +41,7 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 🐣 [Pathway to AI Mastery Series: A Personal Contribution to Open-Source AI Education (Work in Progress)](https://github.com/ancilcleetus/Pathway-to-AI-Mastery-Series)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
-- 📝 [My Resume](https://drive.google.com/file/d/1Zry9wQDvfS3ZPt9eWq_6sRiy-b0Bn0oB)
+- 📝 [My Resume](https://drive.google.com/file/d/1WvXTQRIxgS3QSiYL5SB_hlS6ylNXMyO4)
 
 
 ### Talking about Personal Stuffs:
