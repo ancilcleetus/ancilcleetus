@@ -34,14 +34,14 @@ I'm documenting my Learning Journey through my GitHub repos whenever I get spare
 - 👨‍💻 I'm an **Artificial Intelligence Engineer**
 - 🔬 I'm skilled in Deep Learning, Computer Vision and ECG Time Series Analysis
 - 🔭 I’m currently building expertise in Natural Language Processing (NLP), Generative AI, Large Language Models (LLMs), Multimodal AI & AI Agents
+- 🐣 [AI/ML Explainers: Visual-First Learning Platform for AI/ML (Work in Progress)](https://ancilcleetus.github.io/AI-ML-Explainers/)
 - 🌱 This is my [Learning Journey](https://github.com/ancilcleetus/My-Learning-Journey)
 - 🎨️ These are my [Personal Projects](https://github.com/ancilcleetus/Personal-Projects)
 - 🚀 These are my [Live Projects on Hugging Face!](https://huggingface.co/ancilcleetus)
 - 💡 These are my [Research Paper Implementations!](https://github.com/ancilcleetus/Research-Paper-Implementations)
-- 🐣 [Pathway to AI Mastery Series: A Personal Contribution to Open-Source AI Education (Work in Progress)](https://github.com/ancilcleetus/Pathway-to-AI-Mastery-Series)
 - 🎓 These are my [Licenses and Certifications](https://github.com/ancilcleetus/Licenses-and-Certifications)
 - 📬 How to reach me: [ancilcleetus.work@gmail.com](mailto:ancilcleetus.work@gmail.com)
-- 📝 [My Resume](https://drive.google.com/file/d/1QPRm04yX4IXt_yxEOEtfG8PaDani7fcp/)
+- 📝 [My Resume](https://drive.google.com/file/d/1lZLPt-gSEw5PF1LZjqvWVZK10n5On0rd/)
 
 
 ### Talking about Personal Stuffs:
